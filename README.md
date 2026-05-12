@@ -1,2 +1,19 @@
-# Amazon-Clone
-An Amazon-inspired e-commerce homepage clone developed with pure HTML and CSS. This project recreates the modern Amazon front-end experience with responsive layouts, stylish product cards, navigation menus, hero sections, promotional banners, and professional UI styling.
+# Amazon Clone Website
+
+This project is a front-end clone of the Amazon homepage built using HTML and CSS. The goal of this project was to practice responsive web design, layout structuring, styling techniques, and real-world e-commerce UI development.
+
+## Features
+- Responsive Navigation Bar
+- Hero Banner Section
+- Product Shopping Cards
+- Promotional Sections
+- Amazon-style Footer
+- Clean Responsive Layout
+- Modern UI Design
+
+## Technologies Used
+- HTML5
+- CSS3
+
+## Author
+Soumyadip Chowdhury
